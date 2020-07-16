@@ -1,6 +1,6 @@
 # My Done App
 
-<img alt="UI flow" src="https://github.com/Bytepie/quizzler-flutter/1s.png">
+<img alt="UI flow" src="https://github.com/Bytepie/quizzler-flutter/blob/master/1.png">
 
 # Quizzler ❓
 
